@@ -30,7 +30,8 @@ b=c
 print("Swapped values are:",a,b)
 ```
 ### output
-![output](./Output.png)
+![Output](https://github.com/harissunique/Swapping-two-values/assets/147139338/9a9b67a5-c65f-4341-b983-7a13879538a5)
+
 
 
 
